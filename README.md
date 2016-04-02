@@ -31,7 +31,7 @@ Berikut daftar akunya:
 
 ### Presiden/Mantan Presiden dan Wakil Presiden/Mantan Wakil Presiden
 - Susilo Bambang Yudhoyono. Presiden Indonesia 2004 - 2014. [Facebook](https://www.facebook.com/SBYudhoyono/), [Twitter](https://twitter.com/sbyudhoyono)
-- Joko Widodo. Presiden Indonesia 2014 - Sekarang. [Facebook](https://www.facebook.com/Jokowi/)
+- Joko Widodo. Presiden Indonesia 2014 - Sekarang. [Facebook](https://www.facebook.com/Jokowi/), [Twitter](https://twitter.com/jokowi)
 - Jusuf Kalla. Wakil Presiden 2014 - Sekarang. [Twitter](https://twitter.com/Pak_JK)
 
 
