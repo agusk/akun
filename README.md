@@ -99,7 +99,7 @@ Berikut daftar akunya:
 
 
 ### Berita
-- Kompos.com. Berita online. [Facebook](https://www.facebook.com/KOMPAScom/), [Twitter](https://twitter.com/kompascom)
+- Kompas.com. Berita online. [Facebook](https://www.facebook.com/KOMPAScom/), [Twitter](https://twitter.com/kompascom)
 - Detik.com. Berita online. [Twitter](https://twitter.com/detikcom)
 - Liputan 6. Berita. [Twitter](https://twitter.com/liputan6dotcom)
 - Radio Elshinta. Radio dan Berita. [Twitter](https://twitter.com/RadioElshinta)
