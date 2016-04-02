@@ -82,6 +82,7 @@ Berikut daftar akunya:
 - PLN. [Twitter](https://twitter.com/pln_123)
 - BMKG Indonesia. [Twitter](https://twitter.com/infoBMKG)
 - Kementerian Riset, Teknologi, dan Pendidikan Tinggi. [Twitter](https://twitter.com/kemristekdikti)
+- Pemerintahan Kota Depok. [Twitter](https://twitter.com/pemkotdepok)
 
 
 ## Universitas
