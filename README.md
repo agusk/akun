@@ -1,5 +1,5 @@
 # Daftar Akun Socmed Pejabat Publik dan Public Figure di Indonesia
-Berawal dari banyaknya beredar akun-akun palsu di socmed dari pejabat publik dan public figure di Indonesia. Dokumen ini membantu dan cross-check agar masyarakat tidak terseret dengan kegiatan fitnah dari pihak-pihak yang tidak bertanggung jawab.
+Berawal dari banyaknya beredar akun-akun palsu di socmed dari pejabat publik, public figure dan hotline perusahan umum di Indonesia. Dokumen ini membantu dan cross-check agar masyarakat tidak terseret dengan kegiatan fitnah dari pihak-pihak yang tidak bertanggung jawab.
 
 # Kontribusi
 Rekan-rekan dapat melakukan kontribusi untuk menambahkan akun dengan cara request pull dengan syarat memilik akun Github ini. Jika tidak memiliki akun Github, mohon kirim email agusk2007 [at] gmail.com .
