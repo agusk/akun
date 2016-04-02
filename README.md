@@ -21,6 +21,7 @@ Nama_Lengkap.Info singkat. Twitter. Facebook. dll..
   - [Artis/Entertainment](ArtisEntertainment)
 - [Hotline](#hotline)
   - [Instasi Pemerintah dan BUMN](#instansi-pemerintah-dan-bumn)
+  - [Telekomunikasi](#Telekomunikasi)
   - [Berita](#berita)
   - [Perusahan Industri Swasta](Perusahan-Industri-Swasta)
   - [Toko Online](#Toko-Online)
@@ -31,6 +32,8 @@ Berikut daftar akunya:
 ### Presiden/Mantan Presiden dan Wakil Presiden/Mantan Wakil Presiden
 - Susilo Bambang Yudhoyono. Presiden Indonesia 2004 - 2014. [Facebook](https://www.facebook.com/SBYudhoyono/), [Twitter](https://twitter.com/sbyudhoyono)
 - Joko Widodo. Presiden Indonesia 2014 - Sekarang. [Facebook](https://www.facebook.com/Jokowi/)
+- Jusuf Kalla. Wakil Presiden 2014 - Sekarang. [Twitter](https://twitter.com/Pak_JK)
+
 
 ### MPR, DPR, Menteri dan Lembaga Negara
 - Hidayat Nur Wahid. Wakil Ketua MPR RI 2014-2019. [Twitter](https://twitter.com/hnurwahid)
@@ -38,6 +41,7 @@ Berikut daftar akunya:
 - Yusril Ihza Mahendra. Mantan Menteri RI 2004-2007, 2001-2004, 1999-2001. [Twitter](https://twitter.com/Yusrilihza_Mhd)
 - Mohammad Mahfud M.D. Mantan Menteri 2000-2001, Mantan ketua MK 2008-2013. [Twitter](https://twitter.com/mohmahfudmd)
 - Denny Indrayana. Mantan Menteri 2009 dan 2011. [Twitter](https://twitter.com/dennyindrayana)
+- Muhammad Nuh. Mantan Menteri 2007 - 2014. [Twitter](https://twitter.com/Mohammad_Nuh_)
 
 
 ### Gubernur, Walikota, Bupati dan Pejabat Pemerintah Daerah
@@ -66,6 +70,8 @@ Berikut daftar akunya:
 
 ### Artis/Entertainment
 - Butet Kartaredjasa. Seniman. [Twitter](https://twitter.com/masbutet)
+- Najwa Shihab. [Twitter](https://twitter.com/NajwaShihab)
+- Dhani Ahmad Prasetyo. [Twitter](https://twitter.com/AHMADDHANIPRAST)
 
 ## Hotline
 
@@ -75,7 +81,20 @@ Berikut daftar akunya:
 - KPK. [Twitter](https://twitter.com/KPK_RI)
 - PLN. [Twitter](https://twitter.com/pln_123)
 - BMKG Indonesia. [Twitter](https://twitter.com/infoBMKG)
+- Kementerian Riset, Teknologi, dan Pendidikan Tinggi. [Twitter](https://twitter.com/kemristekdikti)
+
+
+## Universitas
+- Univesitas Indonesia (UI). [Twitter](https://twitter.com/univ_indonesia)
+- Institut Teknologi Bandung (ITB). [Twitter](https://twitter.com/itbofficial)
+- Institut Pertanian Bogor (IPB). [Twitter](https://twitter.com/ipbofficial)
+
+
+## Telekomunikasi
 - Telkomsel. [Facebook](https://www.facebook.com/telkomsel), [Twitter](https://twitter.com/telkomsel)
+- XL. [Facebook](https://www.facebook.com/xlrame), [Twitter](https://twitter.com/xl123)
+- Indosat Ooredoo. [Facebook](https://www.facebook.com/IM3Ooredoo/), [Twitter](https://twitter.com/indosatooredoo)
+
 
 ### Berita
 - Kompos.com. Berita online. [Facebook](https://www.facebook.com/KOMPAScom/), [Twitter](https://twitter.com/kompascom)
@@ -84,17 +103,21 @@ Berikut daftar akunya:
 - Radio Elshinta. Radio dan Berita. [Twitter](https://twitter.com/RadioElshinta)
 - Metrotv News. TV dan Berita. [Facebook](https://www.facebook.com/metrotv), [Twitter](https://twitter.com/Metro_TV)
 
+
 ### Perusahan Industri Swasta
 - Microsoft Indonesia. [Twitter](https://twitter.com/MicrosoftID)
 - Intel Indonesia. [Twitter](https://twitter.com/Intel_Indonesia)
 - Samsung Indonesia. [Twitter](https://twitter.com/Samsung_ID)
 - LG Indonesia. [Twitter](https://twitter.com/LGEIndonesia)
 
+
 ### Toko Online
 - Bhinneka.com . [Facebook](https://www.facebook.com/bhinnekacom), [Twitter](https://twitter.com/bhinneka)
 - Bukalapak. [Twitter](https://twitter.com/bukalapak), [Bukalapak Care](https://twitter.com/Billy_Care)
 - Tokopedia. [Twitter](https://twitter.com/tokopedia),[Tokopedia Care](https://twitter.com/Tokopediacare)
 - Blibli.com. [Twitter](https://twitter.com/bliblidotcom), [Blibli Care](https://twitter.com/BlibliCare)
+- Matahari Mall. [Facebook](https://www.facebook.com/mataharimallcom), [Twitter](https://twitter.com/mataharimallcom)
+- Lazada Indonesia. [Twitter](https://twitter.com/LazadaID)
 
 
 
