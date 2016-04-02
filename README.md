@@ -11,8 +11,8 @@ Nama_Lengkap.Info singkat. Twitter. Facebook. dll..
 
 - [Pejabat Publik](#pejabat-publik)
   - [Presiden/Mantan Presiden dan Wakil Presiden/Mantan Wakil Presiden](#presidenmantan-presiden-dan-wakil-presidenmantan-wakil-presiden)
-  - [MPR, DPR, Menteri dan Lembaga Negara](#MPR,-DPR,-Menteri-dan-Lembaga-Negara)
-  - [Gubernur, Walikota, Bupati dan Pejabat Pemerintah Daerah](#Gubernur,-Walikota,-Bupati-dan-Pejabat-Pemerintah-Daerah)
+  - [MPR, DPR, Menteri dan Lembaga Negara](#mpr-dpr-menteri-dan-lembaga-negara)
+  - [Gubernur, Walikota, Bupati dan Pejabat Pemerintah Daerah](#Gubernur-Walikota-Bupati-dan-Pejabat-Pemerintah-Daerah)
 - [Pejabat Tinggi Instansi Swasta](#Pejabat-tinggi-Instansi-Swasta)
 - [Public Figure](#public-figure)
   - [Partai Politik](#partai-politik)
