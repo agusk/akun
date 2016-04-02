@@ -10,7 +10,7 @@ Nama_Lengkap.Info singkat. Twitter. Facebook. dll..
 ## Daftar Akun Socmed Berdasarkan Kategori
 
 - [Pejabat Publik](#pejabat-publik)
-  - [Presiden](#Presiden-/Mantan-Presiden-dan-Wakil-Presiden/Mantan-Wakil-Presiden)
+  - [Presiden](#Presiden/Mantan-Presiden-dan-Wakil-Presiden/Mantan-Wakil-Presiden)
   - [MPR](#mpr)
   - [DPR](#dpr)
   - [Gubernur](#gubernur)
@@ -36,13 +36,13 @@ Berikut daftar akunya:
 ### Gubernur
 
 ### Walikota/Bupati
-- Ridwan Kamil. Walikota kota Bandung 2013 - Sekarang.[Facebook](https://www.facebook.com/RKbdg/), [Twitter](https://twitter.com/ridwankamil)
+- Ridwan Kamil. Walikota kota Bandung 2013 - Sekarang. [Facebook](https://www.facebook.com/RKbdg/), [Twitter](https://twitter.com/ridwankamil)
 
 
 ## Instansi Pemerintah
 - Yusril Ihza Mahendra. Mantan Menteri RI 2004-2007, 2001-2004, 1999-2001. [Twitter](https://twitter.com/Yusrilihza_Mhd)
 - Mohammad Mahfud M.D. Mantan Menteri , Mantan ketua MK. [Twitter](https://twitter.com/mohmahfudmd)
-- AKun resmi instansi KPK. [Twitter](https://twitter.com/KPK_RI)
+- Akun resmi instansi KPK. [Twitter](https://twitter.com/KPK_RI)
 
 ## Instansi Swasta
 
