@@ -75,6 +75,7 @@ Berikut daftar akunya:
 - Akun resmi instansi KPK. [Twitter](https://twitter.com/KPK_RI)
 - PLN. [Twitter](https://twitter.com/pln_123)
 - BMKG Indonesia. [Twitter](https://twitter.com/infoBMKG)
+- Telkomsel. [Facebook](https://www.facebook.com/telkomsel), [Twitter](https://twitter.com/telkomsel)
 
 ### Instansi Swasta
 - Detik.com. Berita online. [Twitter](https://twitter.com/detikcom)
