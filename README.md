@@ -47,6 +47,7 @@ Berikut daftar akunya:
 ### Gubernur, Walikota, Bupati dan Pejabat Pemerintah Daerah
 - Ganjar Pranowo. Gubernur Jawa Tengah. [Twitter](https://twitter.com/ganjarpranowo)
 - Ridwan Kamil. Walikota kota Bandung 2013 - Sekarang. [Facebook](https://www.facebook.com/RKbdg/), [Twitter](https://twitter.com/ridwankamil)
+- Basuki Tjahaja Purnama (Ahok). Wakil Gubernur/Gubernur PLT DKI Jakarta 2012 - Sekarang. [Twitter](https://twitter.com/basuki_btp)
 
 
 ## Pejabat Tinggi Instansi Swasta
