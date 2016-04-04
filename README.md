@@ -42,6 +42,7 @@ Berikut daftar akunya:
 - Mohammad Mahfud M.D. Mantan Menteri 2000-2001, Mantan ketua MK 2008-2013. [Twitter](https://twitter.com/mohmahfudmd)
 - Denny Indrayana. Mantan Menteri 2009 dan 2011. [Twitter](https://twitter.com/dennyindrayana)
 - Muhammad Nuh. Mantan Menteri 2007 - 2014. [Twitter](https://twitter.com/Mohammad_Nuh_)
+- Susi Pudjiastuti. Menteri 2014 - sekarang. [Twitter](https://twitter.com/susipudjiastuti)
 
 
 ### Gubernur, Walikota, Bupati dan Pejabat Pemerintah Daerah
