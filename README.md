@@ -57,6 +57,7 @@ Berikut daftar akunya:
 - William Tanuwijaya. Founder Tokopedia. [Facebook](https://www.facebook.com/william.tanuwijaya)
 - Leontinus Alpha Edison. Founder Tokopedia. [Facebook](https://www.facebook.com/leonpsm)
 - Achmad Zaky. Founder bukalapak.com. [Twitter](https://twitter.com/achmadzaky)
+- Sandiaga S. Uno. Pengusaha Indonesia. [Twitter](https://twitter.com/sandiuno)
 
 ## Public Figure 
 
